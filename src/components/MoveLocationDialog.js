@@ -16,7 +16,7 @@ import {
   Select,
   MenuItem,
 } from "@material-ui/core";
-import { formatMessage, withModulesManager, TextInput } from "@openimis/fe-core";
+import { formatMessage, withModulesManager, TextInput } from "@stssocialst-stp/fe-core";
 import { fetchLocations, clearLocations } from "../actions";
 
 class MoveLocationDialog extends Component {

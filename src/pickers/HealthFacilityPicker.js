@@ -1,7 +1,7 @@
 import { healthFacilityLabel, LOCATION_SUMMARY_PROJECTION } from "../utils";
 import React, { useState } from "react";
 import { useSelector } from "react-redux";
-import { useModulesManager, useTranslations, Autocomplete, useGraphqlQuery } from "@openimis/fe-core";
+import { useModulesManager, useTranslations, Autocomplete, useGraphqlQuery } from "@stssocialst-stp/fe-core";
 import _debounce from "lodash/debounce";
 
 const HealthFacilityPicker = (props) => {

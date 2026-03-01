@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { ConstantBasedPicker } from "@openimis/fe-core";
+import { ConstantBasedPicker } from "@stssocialst-stp/fe-core";
 
 import { HEALTH_FACILITY_SUB_LEVELS } from "../constants";
 

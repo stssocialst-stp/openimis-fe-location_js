@@ -17,7 +17,7 @@ import {
   formatMessageWithValues,
   journalize,
   formatMessage
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import { withTheme, withStyles } from "@material-ui/core/styles";
 import { RIGHT_REGION_LOCATION_ADD } from "../constants";
 import _ from "lodash";

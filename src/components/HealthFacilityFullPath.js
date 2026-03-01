@@ -5,7 +5,7 @@ import { injectIntl } from "react-intl";
 import { withTheme, withStyles } from "@material-ui/core/styles";
 import { fetchHealthFacilityFullPath } from "../actions";
 import { Grid } from "@material-ui/core";
-import { withModulesManager, FieldLabel, ControlledField } from "@openimis/fe-core";
+import { withModulesManager, FieldLabel, ControlledField } from "@stssocialst-stp/fe-core";
 
 const styles = (theme) => ({
   container: {

@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 import { injectIntl } from "react-intl";
 import _debounce from "lodash/debounce";
 
-import { formatMessage, AutoSuggestion, withModulesManager } from "@openimis/fe-core";
+import { formatMessage, AutoSuggestion, withModulesManager } from "@stssocialst-stp/fe-core";
 import { withTheme, withStyles } from "@material-ui/core/styles";
 
 import { fetchAllRegions, selectRegionLocation, clearLocations } from "../actions.js";

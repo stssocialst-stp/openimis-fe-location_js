@@ -4,7 +4,7 @@ import _ from "lodash";
 import { withTheme, withStyles } from "@material-ui/core/styles";
 import { Grid } from "@material-ui/core";
 
-import { ControlledField, PublishedComponent } from "@openimis/fe-core";
+import { ControlledField, PublishedComponent } from "@stssocialst-stp/fe-core";
 import { locationLabel } from "../utils";
 
 const styles = (theme) => ({

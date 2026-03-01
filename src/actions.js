@@ -8,7 +8,7 @@ import {
   formatMutation,
   formatJsonField,
   graphqlWithVariables,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 
 import { LOCATION_SUMMARY_PROJECTION, nestParentsProjections } from "./utils";
 

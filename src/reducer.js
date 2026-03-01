@@ -6,7 +6,7 @@ import {
   dispatchMutationReq,
   dispatchMutationResp,
   dispatchMutationErr,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import _ from "lodash";
 import { locationLabel } from "./utils";
 

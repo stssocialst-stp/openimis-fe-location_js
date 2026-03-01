@@ -5,7 +5,7 @@ import _debounce from "lodash/debounce";
 import { withTheme, withStyles } from "@material-ui/core/styles";
 import _ from "lodash";
 import { Grid } from "@material-ui/core";
-import { withModulesManager, ControlledField, PublishedComponent } from "@openimis/fe-core";
+import { withModulesManager, ControlledField, PublishedComponent } from "@stssocialst-stp/fe-core";
 import { selectLocation } from "../actions";
 import { DEFAULT_LOCATION_TYPES } from "../constants";
 import CoarseLocation from "./CoarseLocation";

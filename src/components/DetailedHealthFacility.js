@@ -4,7 +4,7 @@ import _ from "lodash";
 import { Grid, Box } from "@material-ui/core";
 import { withTheme, withStyles } from "@material-ui/core/styles";
 
-import { withModulesManager, ControlledField, PublishedComponent } from "@openimis/fe-core";
+import { withModulesManager, ControlledField, PublishedComponent } from "@stssocialst-stp/fe-core";
 import FSPCoarseLocation from "./FSPCoarseLocation";
 
 const styles = (theme) => ({

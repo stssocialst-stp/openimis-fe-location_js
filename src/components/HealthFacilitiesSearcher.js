@@ -13,7 +13,7 @@ import {
   journalize,
   coreConfirm,
   Searcher,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import HealthFacilityFilter from "./HealthFacilityFilter";
 import { fetchHealthFacilitySummaries, deleteHealthFacility } from "../actions";
 import { Button } from "@material-ui/core";

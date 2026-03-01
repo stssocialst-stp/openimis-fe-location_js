@@ -5,7 +5,7 @@ import { connect } from "react-redux";
 import { withTheme, withStyles } from "@material-ui/core/styles";
 import { Fab } from "@material-ui/core";
 import AddIcon from "@material-ui/icons/Add";
-import { withHistory, historyPush, formatMessage, Helmet, clearCurrentPaginationPage } from "@openimis/fe-core";
+import { withHistory, historyPush, formatMessage, Helmet, clearCurrentPaginationPage } from "@stssocialst-stp/fe-core";
 import HealthFacilitiesSearcher from "../components/HealthFacilitiesSearcher";
 import { RIGHT_HEALTH_FACILITY_ADD, MODULE_NAME } from "../constants";
 

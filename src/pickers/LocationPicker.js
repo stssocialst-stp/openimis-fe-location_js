@@ -3,7 +3,7 @@ import { useSelector, useDispatch } from "react-redux";
 import { Autocomplete } from "@material-ui/lab";
 import { TextField } from "@material-ui/core";
 import { withTheme, withStyles } from "@material-ui/core/styles";
-import { withModulesManager, combine, useTranslations, useDebounceCb } from "@openimis/fe-core";
+import { withModulesManager, combine, useTranslations, useDebounceCb } from "@stssocialst-stp/fe-core";
 import _debounce from "lodash/debounce";
 import { locationLabel } from "../utils";
 import { fetchLocationsStr, clearLocations, fetchParentLocationsStr } from "../actions";

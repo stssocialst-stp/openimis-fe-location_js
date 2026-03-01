@@ -8,7 +8,7 @@ import MoveIcon from "@material-ui/icons/Shuffle";
 import DeleteIcon from "@material-ui/icons/Delete";
 import ReplayIcon from "@material-ui/icons/Replay";
 import Tooltip from "@material-ui/core/Tooltip";
-import { formatMessage, formatMessageWithValues, SearcherPane, ProgressOrError } from "@openimis/fe-core";
+import { formatMessage, formatMessageWithValues, SearcherPane, ProgressOrError } from "@stssocialst-stp/fe-core";
 import EditLocationDialog from "./EditLocationDialog";
 import MoveLocationDialog from "./MoveLocationDialog";
 import DeleteLocationDialog from "../components/DeleteLocationDialog";

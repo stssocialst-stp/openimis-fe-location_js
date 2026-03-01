@@ -1,6 +1,6 @@
 import { healthFacilityLabel} from "../utils";
 import React, { useState } from "react";
-import { useModulesManager, useTranslations, Autocomplete, useGraphqlQuery } from "@openimis/fe-core";
+import { useModulesManager, useTranslations, Autocomplete, useGraphqlQuery } from "@stssocialst-stp/fe-core";
 
 const HealthFacilityReferPicker = (props) => {
   const {

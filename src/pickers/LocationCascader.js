@@ -6,7 +6,7 @@ import { useDispatch, useSelector } from "react-redux";
 import Cascader from "rc-cascader";
 import { TextField, Chip } from "@material-ui/core";
 import { withTheme, withStyles } from "@material-ui/core/styles";
-import { useModulesManager, useTranslations } from "@openimis/fe-core";
+import { useModulesManager, useTranslations } from "@stssocialst-stp/fe-core";
 import { fetchLocationsStr, fetchLocationsByUuids } from "../actions";
 import { locationLabel } from "../utils";
 import _ from "lodash";

@@ -14,7 +14,7 @@ import {
   Grid,
 } from "@material-ui/core";
 
-import { withModulesManager, formatMessage, TextInput, ValidatedTextInput, NumberInput } from "@openimis/fe-core";
+import { withModulesManager, formatMessage, TextInput, ValidatedTextInput, NumberInput } from "@stssocialst-stp/fe-core";
 import { locationCodeValidationCheck, locationCodeValidationClear, locationCodeSetValid } from "../actions";
 import { MAX_INT_NUMBER } from "../constants";
 

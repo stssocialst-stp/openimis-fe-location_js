@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import { fetchUserHealthFacilityFullPath } from "../actions";
-import { withModulesManager } from "@openimis/fe-core";
+import { withModulesManager } from "@stssocialst-stp/fe-core";
 
 class UserHealthFacilityLoader extends Component {
   componentDidMount() {

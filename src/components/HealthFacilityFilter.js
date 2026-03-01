@@ -6,7 +6,7 @@ import _debounce from "lodash/debounce";
 import { Grid, FormControlLabel, Checkbox } from "@material-ui/core";
 import { withTheme, withStyles } from "@material-ui/core/styles";
 
-import { withModulesManager, formatMessage, TextInput, PublishedComponent } from "@openimis/fe-core";
+import { withModulesManager, formatMessage, TextInput, PublishedComponent } from "@stssocialst-stp/fe-core";
 
 const styles = (theme) => ({
   dialogTitle: theme.dialog.title,

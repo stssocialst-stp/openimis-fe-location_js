@@ -5,7 +5,7 @@ import { Autocomplete } from "@material-ui/lab";
 import { TextField } from "@material-ui/core";
 import { withTheme, withStyles } from "@material-ui/core/styles";
 
-import { withModulesManager, combine, useTranslations } from "@openimis/fe-core";
+import { withModulesManager, combine, useTranslations } from "@stssocialst-stp/fe-core";
 import { fetchAvailableLocations } from "../actions";
 import { locationLabel } from "../utils";
 

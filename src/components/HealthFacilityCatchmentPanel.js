@@ -5,7 +5,7 @@ import { bindActionCreators } from "redux";
 import { Grid, InputAdornment } from "@material-ui/core";
 import TypeLocationsPaper from "../components/TypeLocationsPaper";
 import { fetchLocations, clearLocations } from "../actions";
-import { withModulesManager, FormPanel, NumberInput } from "@openimis/fe-core";
+import { withModulesManager, FormPanel, NumberInput } from "@stssocialst-stp/fe-core";
 import { withTheme, withStyles } from "@material-ui/core/styles";
 import _ from "lodash";
 

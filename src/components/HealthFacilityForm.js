@@ -16,7 +16,7 @@ import {
   Helmet,
   parseData,
   historyPush,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import { fetchHealthFacility, clearHealthFacility } from "../actions";
 import HealthFacilityMasterPanel from "../components/HealthFacilityMasterPanel";
 import HealthFacilityCatchmentPanel from "../components/HealthFacilityCatchmentPanel";

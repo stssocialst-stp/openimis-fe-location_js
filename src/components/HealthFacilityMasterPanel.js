@@ -8,7 +8,7 @@ import {
   TextAreaInput,
   withModulesManager,
   ValidatedTextInput,
-} from "@openimis/fe-core";
+} from "@stssocialst-stp/fe-core";
 import { Grid } from "@material-ui/core";
 import { connect } from "react-redux";
 import { HFCodeValidationCheck, HFCodeValidationClear, HFCodeSetValid } from "../actions";
